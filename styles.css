@@ -11,6 +11,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+hr {
+    margin: 2rem 0rem;
+}
+
 /** container **/
 
 .container {
@@ -41,3 +45,6 @@ body {
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 }
+
+/** look into the BEM naming convention for css **/
+
